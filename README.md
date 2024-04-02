@@ -44,5 +44,11 @@
   - Calculates the average elapsed time for sorting a `Staff` array of length 10.
 
 
+**Screenshots:**
+
+![Screenshot 1](https://github.com/albertoasensiom/Staff-Database-Java-CVS-File-/blob/main/Screenshots/1.jpg)
+
+![Screenshot 2](https://github.com/albertoasensiom/Staff-Database-Java-CVS-File-/blob/main/Screenshots/2.jpg)
+
 
 
