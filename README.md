@@ -35,3 +35,14 @@
 
 - **Algorithm Optimization:**
   - Optimized QuickSort algorithm for sorting `Staff` objects by handling cases where departments are the same and ordering by employee number within the same department.
+
+- **Limiting Data Reading:**
+  - Reads only the first 10 lines from the CSV file using `while (sc.hasNextLine() && i < 10)`.
+
+- **Calculating Average Elapsed Time:**
+  - Measures the elapsed time for sorting the `Staff` array using QuickSort.
+  - Calculates the average elapsed time for sorting a `Staff` array of length 10.
+
+
+
+
